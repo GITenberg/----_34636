@@ -1,0 +1,43 @@
+_repo: '----_34636'
+_version: 0.1.0
+alternative_title: Ude kurabe
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nagai, Kafu
+    aliases:
+    - Nagai, Sokichi
+    - 永井荷風
+    - Kafu, Nagai
+    birthdate: 1879
+    deathdate: 1959
+    gutenberg_agent_id: '37138'
+    url: http://www.gutenberg.org/2009/agents/37138
+description: "Geisha in Rivalry (腕くらべ, Ude kurabe, 1916-1917), also translated under\
+  \ the title of Rivalry: A Geisha’s Tale, was first published in Japanese in 1918\
+  \ and was first translated into English in 1963. The author, Nagai Kafu, a Japanese\
+  \ novelist, was born in 1879 and died in 1959. Kafu was an editor of literary magazines\
+  \ before investigating Tokyo’s geisha world and writing novels. Rivalry is set in\
+  \ the early twentieth century (it begins around 1912) in Tokyo’s Shimbashi geisha\
+  \ district. Rivalry aims to capture the lives of Shimbashi geisha at a historically\
+  \ popular time for geisha.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2010-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34636'
+  wikidata: Q5530223
+language: ja
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tokyo (Japan) -- Fiction'
+- !lcc 'PL'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Geishas -- Fiction'
+title: 腕くらべ
+url: http://www.gutenberg.org/ebooks/34636
+wikipedia:
+- https://en.wikipedia.org/wiki/Geisha_in_Rivalry
